@@ -96,13 +96,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
+	      <id>central</id>
 	      <name>plugins-releases</name>
 	      <url>http://3.108.196.38:8081/repository/mavenweb-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>snapshots</id>
 	      <name>plugins-snapshot</name>
 	      <url>http://3.108.196.38:8081/repository/mavenweb-snapchart/</url>
 	    </snapshotRepository>
